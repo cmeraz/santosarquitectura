@@ -24,8 +24,6 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 	
 	<!-- jQuery's -->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/></script>
-	<?php wp_enqueue_script("jquery"); ?>
 			
 	<!-- Theme Hook -->
 	<?php wp_head(); ?>
