@@ -297,15 +297,7 @@ $meta_box_info = array(
 			'type' => 'text',
 			'std' => ''
 		),	
-	/*array(
-			'name' =>  __('External Link', 'framework'),
-			'desc' => 'The link to the project.',
-			'id' => $prefix.'portfolio_link',
-			'type' => 'text',
-			'std' => ''
-		) */
 	),
-	
 );
 
 
