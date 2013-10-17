@@ -2,9 +2,7 @@
 		<div id="sidebar" class="aside">
 
           <div id="social-icons" style="margin:15px 0">
-            <a href="http://www.facebook.com/santosarquitectura" "Facebook" style="margin-right:50px">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/Facebook.png" alt="Facebook">
-            </a>
+            <a href="http://www.facebook.com/santosarquitectura" class="facebook"> Facebook </a>
             <a href="http://www.twitter.com/luissantos77" "Twitter" style="margin-right:50px">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Twitter.png" alt="Twitter">
             </a>
