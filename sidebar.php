@@ -1,7 +1,11 @@
 		<!--BEGIN #sidebar .aside-->
 		<div id="sidebar" class="aside">
 
+<<<<<<< HEAD
           <div id="social-icons" style="margin:15px 0">
+=======
+          <div id="social-icons" style="margin-top:15px">
+>>>>>>> 2d27bc49a3e04924d890957e7cf45d31e6c0cbce
             <a href="http://www.facebook.com/santosarquitectura" "Facebook" style="margin-right:50px">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Facebook.png" alt="Facebook">
             </a>
