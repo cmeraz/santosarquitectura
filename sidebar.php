@@ -1,8 +1,11 @@
 		<!--BEGIN #sidebar .aside-->
 		<div id="sidebar" class="aside">
         
-        	<!-- BEGIN Facebook Like Button -->
-        	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/SantosArquitectura/118053698294371" send="true" layout="button_count" width="220" show_faces="true" font=""></fb:like>
+            <img src="<?php echo get_template_directory_uri(); ?>/images/facebook.png" alt="Facebook">
+            <img src="<?php echo get_template_directory_uri(); ?>/images/twitter.png" alt="Twitter">
+            <img src="<?php echo get_template_directory_uri(); ?>/images/instagram.png" alt="Instagram">
+        	<!-- BEGIN Facebook Like Button 
+        	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/SantosArquitectura/118053698294371" send="true" layout="button_count" width="220" show_faces="true" font=""></fb:like> -->
         	
         	<!-- BEGIN Twitter Follow Button
         	<a href="http://twitter.com/{screen_name}" class="twitter-follow-button" data-lang="es">Segui @luissantos77</a> -->
