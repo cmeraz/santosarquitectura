@@ -1,18 +1,16 @@
 		<!--BEGIN #sidebar .aside-->
 		<div id="sidebar" class="aside">
-
-          <div id="social-icons" style="margin-top:35px">
-            <a href="http://www.facebook.com/santosarquitectura" "Facebook" style="margin-left:35px">
+        
+            <a href="http://www.facebook.com/santosarquitectura" "Facebook">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Facebook.png" alt="Facebook">
             </a>
-            <a href="http://www.twitter.com/luissantos77" "Twitter" style="margin-left:35px">
+            <a href="http://www.twitter.com/santosarquitectura" "Twitter">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Twitter.png" alt="Twitter">
             </a>
-            <a href="http://www.instagram.com/santosarquitectura" "Instagram" style="margin-left:35px">
+            <a href="http://www.instagram.com/santosarquitectura" "Instagram">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Instagram.png" alt="Instagram">
             </a>
-          </div>
-                              
+                       
         	<!-- BEGIN Facebook Like Button 
         	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/SantosArquitectura/118053698294371" send="true" layout="button_count" width="220" show_faces="true" font=""></fb:like> -->
         	
