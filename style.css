@@ -2006,15 +2006,3 @@ h2.entry-title span { text-transform: capitalize; font-size: 10px; font-style: i
 .category-sketch .entry-title{
 	font-size: 12px;
 }
-
-/* Appearence of sidebar social icons  ------------------------------*/
-#social-icons {
-	margin: 15px 0;
-}
-#social-icons a{
-	margin: 0 35px 0 15px;
-	text-indent: -9999px;
-}
-#social-icons .facebook{
-	background-image: url("/images/Facebook.png") no-repeat;
-}
