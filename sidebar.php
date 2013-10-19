@@ -8,7 +8,7 @@
             <a href="http://www.twitter.com/luissantos77" "Twitter" style="margin-right:50px">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Twitter.png" alt="Twitter">
             </a>
-            <a href="http://www.instagram.com/santosarquitectura" "Instagram" style="margin-right:50px">
+            <a href="http://www.instagram.com/luissantos77" "Instagram" style="margin-right:50px">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/Instagram.png" alt="Instagram">
             </a>
           </div>
